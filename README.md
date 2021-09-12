@@ -12,3 +12,18 @@ Data Analytics Projects
 •Created a compelling Dashboard giving the answers to our business problem questions with Graphs, Plots, Numbers, etc.
 
 •Built a report and shared it.
+
+
+
+
+
+# [Project 2: Develop a Business Intelligence (BI) Dashboard using Power BI for finding Sales Insights](https://github.com/vineetpandita10/Develop-a-Business-Intelligence-BI-Dashboard-using-Power-BI-for-finding-Sales-Insights)
+•Connecting Database
+
+•Analyzing Tables and Relations
+
+•Data Cleaning - Power Query Editor :- DAX
+
+•Developing Model
+
+•Creating Dashboard
