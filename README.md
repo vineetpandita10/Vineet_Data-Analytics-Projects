@@ -18,14 +18,14 @@ Data Analytics Projects
 
 
 # [Project 2: Develop a Business Intelligence (BI) Dashboard using Power BI for finding Sales Insights](https://github.com/vineetpandita10/Develop-a-Business-Intelligence-BI-Dashboard-using-Power-BI-for-finding-Sales-Insights)
-•Connecting Database
+•Connecting Database(SQL, Excel, Text, Web).
 
-•Analyzing Tables and Relations
+•Analyzing Tables and Relations.
 
-•Data Cleaning - Power Query Editor :- DAX
+•Data Cleaning - Power Query Editor :- DAX.
 
-•Developing Model
+•Developing Model.
 
-•Creating Dashboard
+•Creating Dashboard.
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/50957958/132980167-35991237-ead3-48b1-94f8-87543a5bf33e.gif)
